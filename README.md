@@ -1,5 +1,14 @@
-## Hi there 👋
+## Hello world! 👋
+I'm passionate about application development and automation, constantly exploring the world of Full Stack and DevOps. Currently learning Front-End technologies and DevOps, I aim to create efficient and innovative solutions. I also run my own server 24/7, hosting services and applications using Docker, LXC, and VMs with Proxmox VE, while diving deeper into infrastructure and DevOps technologies. 🚀
 
+### Social Networks:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevinfranco/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kvfranco/)
+
+## Summary:
+![kvfranco's Stats](https://github-readme-stats.vercel.app/api?username=kvfranco&theme=dark&show_icons=true&hide_border=false&count_private=true)
+![kvfranco's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kvfranco&theme=dark&hide_border=false)
+![kvfranco's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kvfranco&theme=dark&show_icons=true&hide_border=false&layout=compact)
 <!--
 **kvfranco/kvfranco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
