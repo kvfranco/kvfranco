@@ -19,7 +19,7 @@ I'm passionate about application development and automation, constantly explorin
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kvfranco/)
 
 ### Summary
-![kvfranco's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kvfranco&theme=dark&show_icons=true&hide_border=false&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kvfranco&layout=compact&theme=dark)
 <!--
 **kvfranco/kvfranco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
